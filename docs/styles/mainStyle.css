@@ -1,0 +1,10 @@
+.custom-class {
+  font-size: 1.2em;
+  color: #003366;
+}
+
+.custom-div {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
